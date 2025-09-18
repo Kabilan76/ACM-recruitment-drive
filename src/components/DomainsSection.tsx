@@ -15,7 +15,7 @@ const DomainsSection = () => {
     },
     {
       icon: Megaphone,
-      title: "Corporate & Publicity",
+      title: "Corporate Team",
       description: "Handle sponsorships, build industry partnerships, and manage outreach programs. Great for networking and business development.",
       skills: ["Partnership Management", "Communication", "Event Planning", "Networking"],
       color: "secondary",

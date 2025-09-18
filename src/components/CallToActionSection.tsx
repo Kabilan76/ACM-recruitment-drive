@@ -103,7 +103,7 @@ const CallToActionSection = () => {
             href="mailto:acmsigai@srmist.edu.in"
             className="flex items-center gap-2 hover:text-blue-300 transition"
           >
-            <Mail className="w-5 h-5 text-blue-400" /> acmsigai3@gmail.com
+            <Mail className="w-5 h-5 text-blue-400" /> acmcintel@gmail.com
           </a>
           {/* Instagram */}
           <a
