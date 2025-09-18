@@ -19,7 +19,7 @@ const DomainsSection = () => {
       description: "Handle sponsorships, build industry partnerships, and manage outreach programs. Great for networking and business development.",
       skills: ["Partnership Management", "Communication", "Event Planning", "Networking"],
       color: "secondary",
-      formUrl: "#" // Will be replaced with actual Google Form link
+      formUrl: "https://forms.gle/GMpm8iZQKRUnwTBeA" // Will be replaced with actual Google Form link
     },
     {
       icon: Share2,
@@ -124,7 +124,7 @@ const DomainsSection = () => {
         {/* Additional Info */}
         <div className="text-center">
           <p className="text-muted-foreground">
-            Application deadline: <span className="text-primary font-semibold">Sep-30,2025</span>
+            Application deadline: <span className="text-primary font-semibold">Sep-26,2025</span>
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             Selected candidates will be contacted within 1 week of application submission.
