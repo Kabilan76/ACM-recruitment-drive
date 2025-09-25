@@ -124,7 +124,7 @@ const DomainsSection = () => {
         {/* Additional Info */}
         <div className="text-center">
           <p className="text-muted-foreground">
-            Application deadline: <span className="text-primary font-semibold">Sep-26,2025</span>
+            Application deadline: <span className="text-primary font-semibold">Oct-2,2025</span>
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             Selected candidates will be contacted within 1 week of application submission.
